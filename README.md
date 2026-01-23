@@ -18,6 +18,7 @@ We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the or
 | [6](https://teorth.github.io/optimizationproblems/constants/6.html) | Union-closed sets conjecture constant | 0.38271 | 0.5 |
 | [7](https://teorth.github.io/optimizationproblems/constants/7.html) | The irrationality measure of $\pi$ | 2 | 7.103205334137 |
 | [8](https://teorth.github.io/optimizationproblems/constants/8.html) | Classical zero-free region constant | 0.755106 | 5.558691 |
+| [9](https://teorth.github.io/optimizationproblems/constants/9.html) | Shannon capacity of the 7-cycle | 3.2578 | 3.3177 |
 
 ## Maintainers
 
