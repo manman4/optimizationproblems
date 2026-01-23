@@ -12,3 +12,7 @@ We are arbitrarily numbering the constants as $C_1$, $C_2$, etc. based on the or
 2. [Erdős minimum overlap constant](https://teorth.github.io/optimizationproblems/constants/2.html)
 3. [A sum-difference constant](https://teorth.github.io/optimizationproblems/constants/3.html)
 4. [Cap set constant](https://teorth.github.io/optimizationproblems/constants/4.html)
+
+## Maintainers
+
+This site is maintained by Paata Ivanisvili and Terence Tao.

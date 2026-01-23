@@ -5,10 +5,11 @@
 There are of course an infinite number of optimization problems one could pose in mathematics.  To avoid proliferation, one should preferably focus on constants that
 
 - have a significant existing mathematical literature, including incremental improvements on bounds;
-- are still actively being researched; and
-- are at least somewhat amenable to computational approaches for either upper or lower bounds.
+- are still actively being researched;
+- are at least somewhat amenable to computational approaches for either upper or lower bounds; and
+- do not depend on additional parameters (such as dimension, or number of objects in a configuration), or have such parameters set to "canonical" or particularly well studied choices for which significant literature exists.
 
-However, exceptions could be made for constants of particular mathematical interest for reasons other than those listed above.
+However, exceptions could be made for constants of particular mathematical interest for reasons other than those listed above.  There is no restriction on the field of mathematics from which the constant arises.  
 
 ## How to Contribute
 
