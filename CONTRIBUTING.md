@@ -35,3 +35,7 @@ If a constant has been worked out exactly, this site may not be the most appropr
 2. **Edit the relevant constant file**:
    - Update the bounds section with new values, with at least one citation or reference.
 3. **Submit a pull request**
+
+## AI use policy
+
+Use of AI to help prepare submissions is permitted, so long as this is noted in the submission text, and that all references and other information provided by the AI are reviewed and verified by the human contributor.  Minor uses of AI, such as spellcheck or autocomplete, do not need to be disclosed.

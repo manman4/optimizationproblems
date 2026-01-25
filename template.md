@@ -25,3 +25,7 @@ Results should be arranged in chronological order, and can include bounds that a
 ## References
 
 - [Add references here in standard format]
+
+## Contribution notes
+
+[List any AI tools or other assistance used to prepare this submission.  Remove this section if not applicable.  Minor AI uses, such as spellcheck or autocomplete, do not need to be disclosed.]
