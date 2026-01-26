@@ -36,7 +36,7 @@ We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly b
 | [20](https://teorth.github.io/optimizationproblems/constants/20a.html) | Thin shell conjecture constant | 2 | $< \infty$ |
 | [21](https://teorth.github.io/optimizationproblems/constants/21a.html) | Isotropic constant of a log-concave probability measure | $1/e$ | $< \infty$ |
 | [22](https://teorth.github.io/optimizationproblems/constants/22a.html) | de Bruijn–Newman constant | 0 | 0.2 |
-| [23a](https://teorth.github.io/optimizationproblems/constants/23a.html) | Tight knot constant | 1.2802 | 10.76 |
+| [23a](https://teorth.github.io/optimizationproblems/constants/23a.html) | Tight knot constant | 1.105 | 10.76 |
 | [23b](https://teorth.github.io/optimizationproblems/constants/23b.html) | Tight alternating knot constant | 0.017 | 7.31 |
 | [24](https://teorth.github.io/optimizationproblems/constants/24a.html) | Smallest unsolved instance of the Hadamard conjecture | 688 | $\infty$ |
 
