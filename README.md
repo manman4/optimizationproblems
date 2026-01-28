@@ -46,6 +46,7 @@ We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly b
 | [26a](https://teorth.github.io/optimizationproblems/constants/26a.html) | Bohnenblust--Hille constant on the Boolean cube | $2$ | $\infty$ |
 | [26b](https://teorth.github.io/optimizationproblems/constants/26b.html) |Multilinear Bohnenblust--Hille constant (real) | $2$ | $\infty$ |
 | [27](https://teorth.github.io/optimizationproblems/constants/27a.html) | Chromatic number of the plane | 5 | 7 |
+| [28](https://teorth.github.io/optimizationproblems/constants/28a.html) | Smallest dimension in which Borsuk’s conjecture fails| 4 | 63 |
 
 ## Recent progress
 
