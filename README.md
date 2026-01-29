@@ -54,6 +54,7 @@ We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly b
 | [32](https://teorth.github.io/optimizationproblems/constants/32a.html) | Constant term of one-shot channel simulation | $-\log_2 \log_2 e \approx -0.53$ | $\sum_{k=1}^{\infty}2^{-k-1}k\log_{2}k-\log_{2}\log_{2}e \approx 0.76$ |
 | [33](https://teorth.github.io/optimizationproblems/constants/33a.html) | Ihara constant over $\mathbb{F}_2$ | 0.316999... | $\sqrt{2}-1 \approx 0.41421$ |
 | [34](https://teorth.github.io/optimizationproblems/constants/34a.html) | Falconer distance problem in $\mathbb{R}^2$ | 1 | $5/4$ |
+| [35](https://teorth.github.io/optimizationproblems/constants/35a.html) | Gradient Descent Exponent | $\log_2(1+\sqrt{2}) \approx 1.271$ | 2 |
 
 ## Recent progress
 
