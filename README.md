@@ -6,7 +6,7 @@ A curated collection of optimization constants $C$ in mathematics, often arising
 
 ## Table of Constants
 
-We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly based on the order in which the constants were added to the repository.  Constants that are in a family of similar constants will also be given letter suffixes (e.g. $C\_{1a}$, $C\_{1b}$).
+We are arbitrarily numbering the constants as $C_{1}$, $C_{2}$, etc., mostly based on the order in which the constants were added to the repository.  Constants that are in a family of similar constants will also be given letter suffixes (e.g. $C_{1a}$, $C_{1b}$).
 
 | Number | Description | Best lower bound | Best upper bound |
 | ------ | ----------- | ---------------- | ---------------- |
@@ -19,7 +19,8 @@ We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly b
 | [4b](https://teorth.github.io/optimizationproblems/constants/4b.html) | Furstenberg–Sárközy square-difference constant | 0.733412 | 1 |
 | [5](https://teorth.github.io/optimizationproblems/constants/5a.html) | Sidon set size constant | 0 | 0.97633 |
 | [6](https://teorth.github.io/optimizationproblems/constants/6a.html) | Union-closed sets conjecture constant | 0.38271 | 0.5 |
-| [7](https://teorth.github.io/optimizationproblems/constants/7a.html) | Irrationality measure of $\pi$ | 2 | 7.103205334137 |
+| [7a](https://teorth.github.io/optimizationproblems/constants/7a.html) | Irrationality measure of $\pi$ | 2 | 7.103205334137 |
+| [7b](https://teorth.github.io/optimizationproblems/constants/7b.html) | Irrationality measure of $\Gamma(1/4)$ | 2 | $10^{143}$ |
 | [8](https://teorth.github.io/optimizationproblems/constants/8a.html) | Classical zero-free region constant | 0.755106 | 5.558691 |
 | [9](https://teorth.github.io/optimizationproblems/constants/9a.html) | Shannon capacity of the 7-cycle | 3.2578 | 3.3177 |
 | [10a](https://teorth.github.io/optimizationproblems/constants/10a.html) | The real Grothendieck constant | 1.67696 | 1.782214 |
@@ -55,6 +56,12 @@ We are arbitrarily numbering the constants as $C\_{1}$, $C\_{2}$, etc., mostly b
 | [33](https://teorth.github.io/optimizationproblems/constants/33a.html) | Ihara constant over $\mathbb{F}_2$ | 0.316999... | $\sqrt{2}-1 \approx 0.41421$ |
 | [34](https://teorth.github.io/optimizationproblems/constants/34a.html) | Falconer distance problem in $\mathbb{R}^2$ | 1 | $5/4$ |
 | [35](https://teorth.github.io/optimizationproblems/constants/35a.html) | Gradient Descent Exponent | $\log_2(1+\sqrt{2}) \approx 1.271$ | 2 |
+| [36](https://teorth.github.io/optimizationproblems/constants/36a.html) | Sphere packing density in $\mathbb{R}^4$ | $\pi^2/16 \approx 0.616850$ | 0.644421 |
+| [37](https://teorth.github.io/optimizationproblems/constants/37a.html) | The degree--sensitivity exponent | $\log_{3}(6) \approx 1.63093$ | 2 |
+| [38](https://teorth.github.io/optimizationproblems/constants/38a.html) | Square-lattice self-avoiding walk connective constant | 2.625622 | 2.679193 |
+| [39](https://teorth.github.io/optimizationproblems/constants/39a.html) | Hadwiger covering / illumination number in $\mathbb{R}^3$ | 8 | 14 |
+| [40a](https://teorth.github.io/optimizationproblems/constants/40a.html) | Lehmer’s Mahler measure constant | 1 | 1.176280... |
+
 
 ## Recent progress
 
