@@ -63,6 +63,7 @@ We are arbitrarily numbering the constants as $C_{1}$, $C_{2}$, etc., mostly bas
 | [38](https://teorth.github.io/optimizationproblems/constants/38a.html) | Square-lattice self-avoiding walk connective constant | 2.625622 | 2.679193 |
 | [39](https://teorth.github.io/optimizationproblems/constants/39a.html) | Hadwiger covering / illumination number in $\mathbb{R}^3$ | 8 | 14 |
 | [40a](https://teorth.github.io/optimizationproblems/constants/40a.html) | Lehmer’s Mahler measure constant | 1 | 1.176280... |
+| [40b](https://teorth.github.io/optimizationproblems/constants/40b.html) | Asymptotic Dobrowolski constant for Lehmer’s problem | $9/4$ | $\infty$ |
 | [41a](https://teorth.github.io/optimizationproblems/constants/41a.html) | Moving sofa constant | 2.2195 | 2.37 (2.2195 announced)|
 
 
