@@ -75,6 +75,7 @@ We are arbitrarily numbering the constants as $C_{1}$, $C_{2}$, etc., mostly bas
 | [47](https://teorth.github.io/optimizationproblems/constants/47a.html) | Centered Hardy-Littlewood maximal constant in dimension $2$ | $\frac{11+\sqrt{61}}{12}\approx 1.5675208$ | 9 |
 | [48](https://teorth.github.io/optimizationproblems/constants/48a.html) | Convex sub-Gaussian comparison constant | 1 | $<\infty$ |
 | [49](https://teorth.github.io/optimizationproblems/constants/49a.html) | Erdős–Szemerédi $3$-sunflower-free capacity | >1.551 (>=1.554 unpublished) | $\frac{3}{2^{2/3}} \approx 1.88988$ |
+| [50](https://teorth.github.io/optimizationproblems/constants/50a.html) | Approximation ratio for quantum Max Cut | 0.498 | $<1$ (0.5 for product states) |
 
 
 ## Recent progress
