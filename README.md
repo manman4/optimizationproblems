@@ -83,6 +83,7 @@ We are arbitrarily numbering the constants as $C_{1}$, $C_{2}$, etc., mostly bas
 
 - [11b](https://teorth.github.io/optimizationproblems/constants/11b.html) **solved:** $C_{11b} = 0.5$ by P. Durcik, P. Ivanisvili, J. Roos, and X. Xie (paper coming soon).
 - [3c](https://teorth.github.io/optimizationproblems/constants/3c.html) **improved lower bound:** $C_{3c} \geq 1.67471$ by T. Astor (paper coming soon).
+- [51](https://teorth.github.io/optimizationproblems/constants/51a.html) **improved lower bound:** $C_{51} \geq 0.58507$ by [Y. He and Q. Tang](https://arxiv.org/abs/2602.12217), 12 Feb 2026.
 
 ## Maintainers
 
